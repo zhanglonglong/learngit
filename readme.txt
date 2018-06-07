@@ -4,3 +4,4 @@ I'm studying git~
 Git tracks changes.
 add one
 add two
+Creating a new branch is quick
